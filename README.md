@@ -17,7 +17,7 @@ WEEK 6 	  Graph Algorithms (Continued)
 WEEK 7 	  Divide and Conquer
 WEEK 8 	  Abstract datatypes
 WEEK 9 	  Abstract datatypes (Continued)
-WEEK 10 Dynamic programming
-WEEK 11 Dynamic programming (Continued)
-WEEK 12 Network flows and linear programming
+WEEK 10   Dynamic programming
+WEEK 11   Dynamic programming (Continued)
+WEEK 12   Network flows and linear programming
 ```
